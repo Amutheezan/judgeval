@@ -116,3 +116,5 @@ demo
 src/judgeval/data/openapi_new.json
 
 CLAUDE.md
+
+secret_key.py
